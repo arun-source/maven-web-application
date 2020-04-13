@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies--> Home Page</title>
+<title>MithunTechnologies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
@@ -19,7 +19,7 @@
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore.
+		Bangalore-560061.
 		+91-9980923226,
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
